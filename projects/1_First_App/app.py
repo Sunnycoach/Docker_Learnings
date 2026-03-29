@@ -1,0 +1,1 @@
+print("Hey Sunny, your first Docker image is succesfully created")
